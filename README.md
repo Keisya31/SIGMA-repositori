@@ -1,7 +1,8 @@
  SIGMA (Sistem Informasi Manajemen Akademik)
-Docker, Laravel, PHP, MySQL, Tailwind CSS.
 
-Project Description
+Tech: Docker, Laravel, PHP, MySQL, Tailwind CSS.
+
+Project Description:
 Web-based academic information system designed to support students, lecturers, and academic staff in managing academic activities efficiently.
 
 Key Features:
@@ -9,5 +10,6 @@ Key Features:
 ✅ Schedule approval by lecturers
 ✅ Student grade monitoring
 ✅ Classroom and schedule management for academic staff
-💡Highlights
+
+💡Highlights:
 Role-based system with different access levels (student, lecturer, staff)
